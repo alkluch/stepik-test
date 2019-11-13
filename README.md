@@ -1,2 +1,3 @@
-# stepik-test
+﻿# stepik-test
 пробный
+курс Stepik по автоматизации тестирования
